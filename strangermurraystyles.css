@@ -1,0 +1,26 @@
+
+
+
+
+header {
+background-color: #d61522;
+color: black;
+border: green;
+text-align: center;
+font-size: 40px
+}
+p {
+  padding: 20px
+  background-color: yellow;
+
+}
+section {color: red}
+
+body{ background-color: black}
+}
+nav{background-color: red}
+div {
+    height: 200px;
+    width: 50%;
+    ;
+}

@@ -1,0 +1,20 @@
+*{outline: dotted 1px green;}
+
+a{
+  color: red
+}
+
+header {
+background-color: #d61522;
+color: black;
+border: green;
+}
+p {
+  padding: 20px
+  background-color: yellow;
+}
+
+.dog{
+  width: 100%
+  max-width: 400px
+}
